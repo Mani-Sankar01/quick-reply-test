@@ -10,4 +10,5 @@ To run this app, follow these steps:
    ```bash
    npm install
 2 Start the development server
+   ```bash
    npm run dev
